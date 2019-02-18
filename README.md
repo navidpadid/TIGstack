@@ -9,4 +9,6 @@
 How to run:
 
 cd theTIGstack
+
+
 docker-compose up
